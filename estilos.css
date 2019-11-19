@@ -1,0 +1,243 @@
+body {
+    background-image: url(img/bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    color: white;
+}
+
+h2 {
+    text-shadow: #000 1px 1px 2px;
+}
+
+label {
+    color: white;
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+object {
+    float: left;
+}
+
+#formBack {
+    background: linear-gradient(90deg, rgba(91, 14, 149, 0.5), rgba(255, 76, 102, 0.5));
+    padding: 20px
+}
+
+.caja {
+    margin: 20px auto;
+    border: 1px solid #d9d9d9;
+    height: 50px;
+    width: 530px;
+    overflow: hidden;
+    position: relative;
+}
+
+select {
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    height: 50px;
+    padding: 5px;
+    width: 550px;
+    color: #FFFFFF;
+}
+
+select:focus {
+    outline: none;
+}
+
+.caja::after {
+    content: "\025bd";
+    display: table-cell;
+    text-align: center;
+    padding-top: 0px;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(0deg, rgb(26, 26, 26), rgb(67, 10, 128));
+    position: absolute;
+    top: 0;
+    right: 0px;
+    pointer-events: none;
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+option {
+    color: red;
+    background-color: yellow;
+}
+
+textarea {
+    background: transparent;
+    border: 1px solid #d9d9d9;
+    font-size: 24px;
+    height: 150px;
+    padding: 5px;
+    width: 100%;
+    color: #FFFFFF;
+}
+
+#textsat:hover {
+    background: linear-gradient(90deg, rgba(91, 14, 149, 0.5), rgba(255, 76, 102, 0.5));
+}
+
+::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#textsat {
+    background: transparent;
+    border: 1px solid #d9d9d9;
+    font-size: 28px;
+    height: 200px;
+    padding: 5px;
+    width: 100%;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.optionbg {
+    background-color: #FFE !important
+}
+
+.btn-cancelar {
+    font-size: 24px;
+    color: white;
+    background: linear-gradient(0deg, rgb(26, 26, 26), rgb(67, 10, 128));
+    border-color: #006;
+    border-bottom-color: #fff;
+    border-bottom-style: groove;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-width: 3px;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.btn-cancelar:focus {
+    outline: none;
+}
+
+.btn-cancelar:hover {
+    background: linear-gradient(90deg, rgba(91, 14, 149, 0.5), rgba(255, 76, 102, 0.5));
+    text-decoration: none;
+}
+
+.caja:hover {
+    background: linear-gradient(90deg, rgba(91, 14, 149, 0.5), rgba(255, 76, 102, 0.5));
+    text-decoration: none;
+}
+
+.btn-enviar {
+    font-size: 24px;
+    color: white;
+    background: linear-gradient(0deg, rgb(26, 26, 26), rgb(67, 10, 128));
+    border-color: #006;
+    border-bottom-color: #fff;
+    border-bottom-style: groove;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-width: 3px;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.btn-enviar:hover {
+    background: linear-gradient(90deg, rgba(91, 14, 149, 0.5), rgba(255, 76, 102, 0.5));
+    text-decoration: none;
+}
+
+.btn-enviar:focus {
+    outline: none;
+}
+
+hr {
+    background-color: #FFFFFF;
+    opacity: 0.3;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+}
+
+.overlay.active {
+    visibility: visible;
+}
+
+.popup {
+    /* background: linear-gradient(90deg, rgb(91,14,149), rgb(255,76,102)); */
+    background-image: url(img/bgpopup.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, .4);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 600px;
+    transition: .8s ease all;
+    opacity: 1000;
+}
+
+.popup .btn-cerrar-popup {
+    font-size: 24px;
+    line-height: 16px;
+    display: block;
+    text-align: right;
+    color: #fff;
+    text-decoration: none;
+}
+
+.popup .btn-cerrar-popup:hover {
+    color: #666666;
+}
+
+.popup.active {
+    opacity: 1;
+}
+
+.textShadow {
+    text-shadow: #000 1px 1px 2px;
+}
+
+#btn-qe {
+    width: 300px;
+}
+
+#btn-qs {
+    width: 300px;
+}
+
+#btn-es {
+    width: 300px;
+}

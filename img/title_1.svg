@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="165" viewBox="0 0 784 165">
+  <defs>
+    <style>
+      .b7268ad6-9eb0-4b2c-81dc-e0b4aedd914b {
+        fill: none;
+      }
+
+      .b979db67-5640-4700-8397-3caca9dc9e4e {
+        isolation: isolate;
+      }
+
+      .fcfab576-217a-47a4-84a4-90bb5e5af9c5 {
+        opacity: 0.46;
+        mix-blend-mode: lighten;
+      }
+
+      .beb31b0a-8d26-4036-b5b8-ddca6f98fc07 {
+        clip-path: url(#e431e837-92f0-4faa-ac50-4f3ca875c3a0);
+      }
+
+      .b6a413e7-252d-4c12-903e-7c630ec8cb97 {
+        fill: url(#a9113c9d-deb8-4cb1-a6c3-956fa98138b1);
+      }
+
+      .bb0aaa80-0e57-4f98-b822-5bf9a4dad01f {
+        fill: #37197d;
+      }
+
+      .bb97d0f9-bcdf-46a5-b78c-7c5ab33b250f, .e576a10b-913a-45ae-ae8a-506b46e520e8 {
+        font-size: 58.02px;
+        font-family: HelveticaLTStd-Bold, Helvetica LT Std;
+        font-weight: 700;
+      }
+
+      .e576a10b-913a-45ae-ae8a-506b46e520e8 {
+        fill: #7b49a6;
+      }
+
+      .bb97d0f9-bcdf-46a5-b78c-7c5ab33b250f {
+        fill: #fff;
+      }
+
+      .e9ea3634-113f-4b0b-87cd-a3702dc0e6dc {
+        fill: url(#aca8f1fe-011e-40ac-ac92-f3db69a39136);
+      }
+
+      .a0fce02e-f7f2-4680-83f1-a46532ffe226 {
+        fill: url(#a79eb7a9-29e0-448d-8e9a-2d153ce94dba);
+      }
+
+      .bd44f8a5-85bb-4b3b-9f05-1da0e4c32564 {
+        clip-path: url(#abdc4cb6-c603-49b9-96d6-8fc62907a60b);
+      }
+
+      .ad288934-26c9-4ad2-960d-9c1daa63255a {
+        fill: url(#bd45db59-7825-490d-922b-ea7cbb39f616);
+      }
+    </style>
+    <clipPath id="e431e837-92f0-4faa-ac50-4f3ca875c3a0">
+      <polygon class="b7268ad6-9eb0-4b2c-81dc-e0b4aedd914b" points="767 400 25 400 0 235 784 235 767 400"/>
+    </clipPath>
+    <radialGradient id="a9113c9d-deb8-4cb1-a6c3-956fa98138b1" data-name="Degradado sin nombre 8" cx="387.29" cy="319.85" r="199.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5400a9"/>
+      <stop offset="1" stop-color="#6220ad" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aca8f1fe-011e-40ac-ac92-f3db69a39136" data-name="Degradado sin nombre 35" cx="164.1" cy="-19744.32" r="213.28" gradientTransform="translate(209.2 3880.8) scale(1.13 0.19)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="a79eb7a9-29e0-448d-8e9a-2d153ce94dba" cx="-22.77" cy="80133.54" r="213.28" gradientTransform="matrix(1.27, 0, 0, -0.07, 418.27, 5285.5)" xlink:href="#aca8f1fe-011e-40ac-ac92-f3db69a39136"/>
+    <clipPath id="abdc4cb6-c603-49b9-96d6-8fc62907a60b">
+      <polygon class="b7268ad6-9eb0-4b2c-81dc-e0b4aedd914b" points="767 165 25 165 0 0 784 0 767 165"/>
+    </clipPath>
+    <radialGradient id="bd45db59-7825-490d-922b-ea7cbb39f616" cx="387.29" cy="84.85" r="199.49" xlink:href="#a9113c9d-deb8-4cb1-a6c3-956fa98138b1"/>
+  </defs>
+  <title>title</title>
+  <g class="b979db67-5640-4700-8397-3caca9dc9e4e">
+    <g id="b507b8c2-d99e-40c6-8d51-a19951946d8e" data-name="Capa 1">
+      <g class="fcfab576-217a-47a4-84a4-90bb5e5af9c5">
+        <g class="beb31b0a-8d26-4036-b5b8-ddca6f98fc07">
+          <circle class="b6a413e7-252d-4c12-903e-7c630ec8cb97" cx="387.3" cy="319.9" r="199.5"/>
+        </g>
+      </g>
+      <g>
+        <polygon class="bb0aaa80-0e57-4f98-b822-5bf9a4dad01f" points="767 165 25 165 0 0 784 0 767 165"/>
+        <text class="e576a10b-913a-45ae-ae8a-506b46e520e8" transform="translate(131.8 104.1)">Tu Menú Principal</text>
+        <text class="bb97d0f9-bcdf-46a5-b78c-7c5ab33b250f" transform="translate(130.8 101.1)">Tu Menú Principal</text>
+        <ellipse class="e9ea3634-113f-4b0b-87cd-a3702dc0e6dc" cx="395.3" cy="151.1" rx="341.9" ry="1.7"/>
+        <ellipse class="a0fce02e-f7f2-4680-83f1-a46532ffe226" cx="389.4" cy="16.9" rx="381.6" ry="0.6"/>
+        <g class="fcfab576-217a-47a4-84a4-90bb5e5af9c5">
+          <g class="bd44f8a5-85bb-4b3b-9f05-1da0e4c32564">
+            <circle class="ad288934-26c9-4ad2-960d-9c1daa63255a" cx="387.3" cy="84.9" r="199.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

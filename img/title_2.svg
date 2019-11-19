@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="165" viewBox="0 0 784 165">
+  <defs>
+    <style>
+      .fa208966-8d73-4139-88bf-1cddc09cd197 {
+        fill: none;
+      }
+
+      .b1f5788f-4ff7-4397-ac6a-95d907785bef {
+        isolation: isolate;
+      }
+
+      .f8e107fe-2bc7-46ac-8f7d-3fe28f1c1c67 {
+        fill: url(#af50ee97-41d3-4353-a695-d7fae83acff5);
+      }
+
+      .eb287c1b-7821-401d-8246-e41eda048529 {
+        fill: url(#acf9156f-405b-4d44-ac74-9ac5c7e3fe4f);
+      }
+
+      .a548423a-74b4-4ef8-8627-3f5a71bd8530 {
+        opacity: 0.46;
+        mix-blend-mode: lighten;
+      }
+
+      .a0e6747e-d2c8-4643-92e3-445f1d76efb4 {
+        clip-path: url(#e705b57e-ad3c-4aff-9d1c-9ea2ba62e85e);
+      }
+
+      .b7c7f80e-31c3-44cc-93d8-32b8ead72c5e {
+        fill: url(#b8cc161f-83dc-44ce-bc60-4ea0f431ad73);
+      }
+
+      .a50d4b14-f638-463c-a0a1-659311f587e3 {
+        opacity: 0.13;
+      }
+
+      .ac76b95a-0093-47d0-8a50-135860a8af07 {
+        fill: #37197d;
+      }
+
+      .a376d5e9-b213-4261-ab42-4c83702250cb, .aa8d5571-39e9-4b52-9b8e-fb7cde2d4ed4 {
+        font-size: 58.02px;
+        font-family: HelveticaLTStd-Bold, Helvetica LT Std;
+        font-weight: 700;
+      }
+
+      .aa8d5571-39e9-4b52-9b8e-fb7cde2d4ed4 {
+        fill: #7b49a6;
+      }
+
+      .a376d5e9-b213-4261-ab42-4c83702250cb {
+        fill: #fff;
+      }
+
+      .a29e1280-2a45-4b7e-a0d9-553b47fb0fb5 {
+        clip-path: url(#bb38e784-1849-4c9c-95cf-46ef5f789156);
+      }
+
+      .b8c85c97-b03f-4f67-aeaf-1d91a7b7992e {
+        fill: url(#a1747230-c6ea-4812-baea-97f3a0315a16);
+      }
+    </style>
+    <radialGradient id="af50ee97-41d3-4353-a695-d7fae83acff5" data-name="Degradado sin nombre 35" cx="164.1" cy="-17803.5" r="213.28" gradientTransform="translate(209.2 3514.2) scale(1.13 0.19)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="acf9156f-405b-4d44-ac74-9ac5c7e3fe4f" cx="-22.77" cy="72806.77" r="213.28" gradientTransform="matrix(1.27, 0, 0, -0.07, 418.27, 4803.78)" xlink:href="#af50ee97-41d3-4353-a695-d7fae83acff5"/>
+    <clipPath id="e705b57e-ad3c-4aff-9d1c-9ea2ba62e85e">
+      <polygon class="fa208966-8d73-4139-88bf-1cddc09cd197" points="767 -52 25 -52 0 -217 784 -217 767 -52"/>
+    </clipPath>
+    <radialGradient id="b8cc161f-83dc-44ce-bc60-4ea0f431ad73" data-name="Degradado sin nombre 8" cx="387.29" cy="-132.15" r="199.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5400a9"/>
+      <stop offset="1" stop-color="#6220ad" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="bb38e784-1849-4c9c-95cf-46ef5f789156">
+      <polygon class="fa208966-8d73-4139-88bf-1cddc09cd197" points="767 165 25 165 0 0 784 0 767 165"/>
+    </clipPath>
+    <radialGradient id="a1747230-c6ea-4812-baea-97f3a0315a16" cx="387.29" cy="84.85" r="199.49" xlink:href="#b8cc161f-83dc-44ce-bc60-4ea0f431ad73"/>
+  </defs>
+  <title>title</title>
+  <g class="b1f5788f-4ff7-4397-ac6a-95d907785bef">
+    <g id="a9cf2136-92f2-4cc2-9661-6298f5ee6dbb" data-name="Capa 1">
+      <ellipse class="f8e107fe-2bc7-46ac-8f7d-3fe28f1c1c67" cx="395.3" cy="151.1" rx="341.9" ry="1.7"/>
+      <ellipse class="eb287c1b-7821-401d-8246-e41eda048529" cx="389.4" cy="16.9" rx="381.6" ry="0.6"/>
+      <g class="a548423a-74b4-4ef8-8627-3f5a71bd8530">
+        <g class="a0e6747e-d2c8-4643-92e3-445f1d76efb4">
+          <circle class="b7c7f80e-31c3-44cc-93d8-32b8ead72c5e" cx="387.3" cy="-132.1" r="199.5"/>
+        </g>
+      </g>
+      <g>
+        <polygon class="ac76b95a-0093-47d0-8a50-135860a8af07" points="767 165 25 165 0 0 784 0 767 165"/>
+        <text class="aa8d5571-39e9-4b52-9b8e-fb7cde2d4ed4" transform="translate(148.8 104.1)">Juega tus Puntos</text>
+        <text class="a376d5e9-b213-4261-ab42-4c83702250cb" transform="translate(148.8 101.1)">Juega tus Puntos</text>
+        <ellipse class="f8e107fe-2bc7-46ac-8f7d-3fe28f1c1c67" cx="395.3" cy="151.1" rx="341.9" ry="1.7"/>
+        <ellipse class="eb287c1b-7821-401d-8246-e41eda048529" cx="389.4" cy="16.9" rx="381.6" ry="0.6"/>
+        <g class="a548423a-74b4-4ef8-8627-3f5a71bd8530">
+          <g class="a29e1280-2a45-4b7e-a0d9-553b47fb0fb5">
+            <circle class="b8c85c97-b03f-4f67-aeaf-1d91a7b7992e" cx="387.3" cy="84.9" r="199.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

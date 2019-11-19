@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Queremos escucharte</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <object data="img/title_3.svg" type="image/svg+xml"></object>
+        </div>
+
+    </div>
+    <br>
+    <div class="container" id="formBack" style="box-shadow: 0px 0px 10px rgb(17, 17, 17)">
+
+        <div class="container align-items-center justify-content-center" id="titleform">
+
+            <div class="row justify-content-center" id="title1">
+                <br>
+                <h1 class="h2 textShadow">¡Hola,[Nombre], califica tu experiencia!</h1>
+            </div>
+            <div class="row justify-content-center">
+                <p class="h4 textShadow" id="subtitle1">Por favor, elije la opción que más te guste.</p>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md">
+                <h3 class="textShadow">QUIERO</h3>
+                <div class="caja">
+                    <select name="quiero" id="quieroForm" required>
+                    <option>Dejar una queja</option>
+                    <option>Dejar una sugerencia</option>
+                    <option>Dejar un comentario</option>
+                    <option>Dejar una felicitación</option>
+                </select>
+                </div>
+
+            </div>
+
+            <div class="col-md">
+                <h3 class="textShadow">SOBRE</h3>
+                <div class="caja">
+                    <select name="quiero" id="quieroForm" placeholder="QUIERO" required>
+                    <option>Alimentos y bebidas</option>
+                    <option>Apuestas</option>
+                    <option>Kiosco</option>
+                    <option>Mesas</option>
+                    <option>Sportbook</option>
+                    <option>Terminales</option>
+                </select></div>
+
+            </div>
+
+        </div>
+
+        <div class="container align-items-center">
+            <div class="row">
+                <label class="textShadow" style="font-size: 22px" for="msjtxt">MENSAJE</label>
+                <textarea id="msjtxt" placeholder="Aquí escribe tu mensaje" required></textarea>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md align-items-center">
+                <br>
+                <button type="submit" id="btn-cancelar" class="btn-cancelar">CANCELAR</button>
+            </div>
+
+            <div class="col-md align-items-center">
+                <br>
+                <button type="submit" id="btn-enviar" class="btn-enviar">ENVIAR</button>
+            </div>
+        </div>
+
+    </div>
+    <div class="overlay" id="overlay">
+        <div class="popup" id="popup">
+            <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup">x</a>
+            <img src="img/icon-03.png" class="animated tada infinite delay-1s"><img>
+            <h2>¡Gracias por tus comentarios!</h2>
+            <h4>Recibiras la confirmación y estatus por correo electrónico.</h4>
+            <button type="submit" id="btn-aceptar" class="btn-enviar">ACEPTAR</button>
+        </div>
+    </div>
+    <div class="overlay" id="overlay2">
+        <div class="popup" id="popup2">
+            <a href="#" id="btn-cerrar-popup2" class="btn-cerrar-popup">x</a>
+            <img src="img/icon-02.png" class="animated tada infinite delay-1s"><img>
+            <h2>¿Deseas salir o continuar con el registro?</h3>
+                <br>
+                <div class="row align-items-center">
+                    <div class="col-md">
+                        <button type="submit" id="btn-salir" class="btn-enviar">SALIR</button>
+                    </div>
+                    <div class="col-md">
+                        <button type="submit" id="btn-continuar" class="btn-enviar">CONTINUAR</button>
+                    </div>
+                </div>
+                <br>
+                <p>También puedes dejar tus comentarios por correo electrónico: servicio.clientes@codere.com<br>Centro de Atención Codere, 01800 000 2925</p>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <script src="popup.js"></script>
+</body>
+
+</html>

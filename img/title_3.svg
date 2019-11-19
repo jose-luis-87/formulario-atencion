@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="165" viewBox="0 0 784 165">
+  <defs>
+    <style>
+      .ba273ccf-b773-4882-b130-343a4ffc7d7f {
+        fill: none;
+      }
+
+      .bed1dd6c-3f54-433b-b811-0cf8bf1a5330 {
+        isolation: isolate;
+      }
+
+      .acfd7312-f7c6-4dfc-b899-8dd17b51ec8a {
+        fill: #37197d;
+      }
+
+      .e5a246f3-44fa-44d0-a9e2-c492c6616604, .f236c9cf-f18d-4850-b4ef-86d97190d5e3 {
+        font-size: 58.02px;
+        font-family: HelveticaLTStd-Bold, Helvetica LT Std;
+        font-weight: 700;
+      }
+
+      .f236c9cf-f18d-4850-b4ef-86d97190d5e3 {
+        fill: #7b49a6;
+      }
+
+      .e5a246f3-44fa-44d0-a9e2-c492c6616604 {
+        fill: #fff;
+      }
+
+      .e5b435e3-d157-4106-9c01-f3dc55687d85 {
+        fill: url(#bbeef8c0-190d-4ff4-923f-45a14c0eaa1a);
+      }
+
+      .bfc8e02f-14de-443d-9b85-9500e1050d48 {
+        fill: url(#b34f29b7-8138-4cc4-b77b-d42e67d8fcba);
+      }
+
+      .fd5412ec-161b-40d2-97bc-5ce374cd58cd {
+        opacity: 0.46;
+        mix-blend-mode: lighten;
+      }
+
+      .a8e63f65-7452-49f7-9f9c-9d2ac5832c25 {
+        clip-path: url(#ea3e8525-3b3b-4e82-8700-10ff69f232ce);
+      }
+
+      .a6ffc5f3-7e65-4b4d-86b6-3f64876e5efd {
+        fill: url(#b615c6b2-387a-4d73-8b98-899ffc34854f);
+      }
+
+      .b0427b3e-aa1f-4aa5-8e70-95e67c72a167 {
+        clip-path: url(#fa1e8214-6b1b-44e2-92b7-0b79495f1755);
+      }
+
+      .ae467495-7687-4273-aee9-4b14ea14f5d8 {
+        fill: url(#bef477ff-0fa0-4eb9-974c-f0214355fa89);
+      }
+
+      .ac5c144a-38fd-4326-8c28-794b08ba7683 {
+        clip-path: url(#b0a11c55-e8e7-4d50-87eb-9b036c76b76a);
+      }
+
+      .b0fcac8c-628f-473b-a005-e19673c17309 {
+        fill: url(#f486549a-f26d-4627-aca4-deea3702a4d4);
+      }
+    </style>
+    <radialGradient id="bbeef8c0-190d-4ff4-923f-45a14c0eaa1a" data-name="Degradado sin nombre 35" cx="161.21" cy="-18735.27" r="213.28" gradientTransform="translate(209.2 3690.2) scale(1.13 0.19)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b34f29b7-8138-4cc4-b77b-d42e67d8fcba" cx="-20.75" cy="76324.27" r="213.28" gradientTransform="matrix(1.27, 0, 0, -0.07, 418.27, 5035.05)" xlink:href="#bbeef8c0-190d-4ff4-923f-45a14c0eaa1a"/>
+    <clipPath id="ea3e8525-3b3b-4e82-8700-10ff69f232ce">
+      <polygon class="ba273ccf-b773-4882-b130-343a4ffc7d7f" points="767 165 25 165 0 0 784 0 767 165"/>
+    </clipPath>
+    <radialGradient id="b615c6b2-387a-4d73-8b98-899ffc34854f" data-name="Degradado sin nombre 8" cx="387.29" cy="84.85" r="199.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5400a9"/>
+      <stop offset="1" stop-color="#6220ad" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="fa1e8214-6b1b-44e2-92b7-0b79495f1755">
+      <polygon class="ba273ccf-b773-4882-b130-343a4ffc7d7f" points="767 -70 25 -70 0 -235 784 -235 767 -70"/>
+    </clipPath>
+    <radialGradient id="bef477ff-0fa0-4eb9-974c-f0214355fa89" cx="387.29" cy="-150.15" r="199.49" xlink:href="#b615c6b2-387a-4d73-8b98-899ffc34854f"/>
+    <clipPath id="b0a11c55-e8e7-4d50-87eb-9b036c76b76a">
+      <polygon class="ba273ccf-b773-4882-b130-343a4ffc7d7f" points="767 382 25 382 0 217 784 217 767 382"/>
+    </clipPath>
+    <radialGradient id="f486549a-f26d-4627-aca4-deea3702a4d4" cx="387.29" cy="301.85" r="199.49" xlink:href="#b615c6b2-387a-4d73-8b98-899ffc34854f"/>
+  </defs>
+  <title>title</title>
+  <g class="bed1dd6c-3f54-433b-b811-0cf8bf1a5330">
+    <g id="b6ae516d-ab21-4ffe-9441-8665dd4082e9" data-name="Capa 1">
+      <g>
+        <polygon class="acfd7312-f7c6-4dfc-b899-8dd17b51ec8a" points="767 165 25 165 0 0 784 0 767 165"/>
+        <text class="f236c9cf-f18d-4850-b4ef-86d97190d5e3" transform="translate(64.8 100)">¡Queremos Escucharte!</text>
+        <text class="e5a246f3-44fa-44d0-a9e2-c492c6616604" transform="translate(64.8 98)">¡Queremos Escucharte!</text>
+        <ellipse class="e5b435e3-d157-4106-9c01-f3dc55687d85" cx="392" cy="151.1" rx="341.9" ry="1.7"/>
+        <ellipse class="bfc8e02f-14de-443d-9b85-9500e1050d48" cx="392" cy="16.9" rx="381.6" ry="0.6"/>
+        <g class="fd5412ec-161b-40d2-97bc-5ce374cd58cd">
+          <g class="a8e63f65-7452-49f7-9f9c-9d2ac5832c25">
+            <circle class="a6ffc5f3-7e65-4b4d-86b6-3f64876e5efd" cx="387.3" cy="84.9" r="199.5"/>
+          </g>
+        </g>
+      </g>
+      <g class="fd5412ec-161b-40d2-97bc-5ce374cd58cd">
+        <g class="b0427b3e-aa1f-4aa5-8e70-95e67c72a167">
+          <circle class="ae467495-7687-4273-aee9-4b14ea14f5d8" cx="387.3" cy="-150.1" r="199.5"/>
+        </g>
+      </g>
+      <g class="fd5412ec-161b-40d2-97bc-5ce374cd58cd">
+        <g class="ac5c144a-38fd-4326-8c28-794b08ba7683">
+          <circle class="b0fcac8c-628f-473b-a005-e19673c17309" cx="387.3" cy="301.9" r="199.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
